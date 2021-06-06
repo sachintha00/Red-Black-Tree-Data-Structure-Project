@@ -625,7 +625,7 @@ int main()
                     cout<<"PROGRAMMERS....";
                     gotoxy(20,9);
                     SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE),7);
-                    cout<<"1. Sachintha Madhawa         MA-HDSE-202-F-004";
+                    cout<<"1. Sachintha Madhawa       MA-HDSE-202-F-004";
                     SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE),4);
                     Sleep(1000);
                     gotoxy(20,10);
